@@ -153,6 +153,12 @@ Please, make sure to follow our coding style and to add unit tests for the featu
 
 Thank you for helping us to improve Liquifier!
 
+## License
+
+This project is free and open source software designed to be stolen.  Please steal this code and make something better, original or fun.
+
+This project is licensed under the terms of the MIT license. For more details, please see the [LICENSE](LICENSE) file.
+
 ## Contact Information
 For any inquiries or further information, please feel free to reach out:
 
